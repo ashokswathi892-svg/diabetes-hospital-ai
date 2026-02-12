@@ -15,7 +15,7 @@ It includes an interactive Streamlit web app with dashboards, patient analytics,
 Python, Streamlit, Pandas, NumPy, Scikit-learn, Plotly
 
 ## Live Demo
-(Add your Streamlit link here)
+(https://diabetes-hospital-ai-bbvjz9pvlswnaeaxycfe9u.streamlit.app/)
 
 ## Author
 Swathi Ashok
